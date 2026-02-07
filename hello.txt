@@ -1,2 +1,2 @@
 welcome to Git
-hi my name is mayur
+hi my name is Mayur
